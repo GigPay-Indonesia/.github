@@ -28,13 +28,12 @@ The system works as follows:
 
 The result is a programmable treasury rail that is capital-efficient, auditable, and modular.
 
----
+
 
 # 2. Architectural Layers
 
 GigPay consists of three tightly integrated but logically separated layers.
-
-<img width="5480" height="4481" alt="deepseek_mermaid_20260131_4086f8" src="https://github.com/user-attachments/assets/411b00d7-6e7b-4c88-a502-6475e89668d4" />
+<img width="5480" height="4481" alt="deepseek_mermaid_20260131_4086f8" src="https://github.com/user-attachments/assets/88e2d1d1-1609-4324-a9fd-65a3d238fade" />
 
 ## 2.1 Treasury Layer
 

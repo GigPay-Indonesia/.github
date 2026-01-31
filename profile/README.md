@@ -1,16 +1,3 @@
----
-
-# GigPay Protocol
-
-GigPay is a treasury-first, onchain payment and escrow protocol designed for enterprise-grade payouts. It combines three core primitives into one coherent capital system:
-
-1. A company treasury vault that acts as the capital root.
-2. A deterministic escrow state machine for payout lifecycle enforcement.
-3. An upgradeable ERC4626 yield aggregator that keeps idle capital productive.
-
-Built for Base and optimized for IDRX and stablecoin payouts.
-
----
 
 # 1. Executive Overview
 
@@ -28,7 +15,7 @@ The system works as follows:
 
 The result is a programmable treasury rail that is capital-efficient, auditable, and modular.
 
-
+---
 
 # 2. Architectural Layers
 

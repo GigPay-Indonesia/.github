@@ -1,11 +1,3 @@
-Below is a fully rewritten, comprehensive, professional README focused strictly on how **Escrow + Treasury + Yield Aggregator** compose into one system.
-
-The Thetanuts-specific track content has been removed.
-All deployments include direct Blockscout links in structured tables.
-There is a detailed section explaining how each deployed contract connects to the others.
-
-You can paste this directly into your repository.
-
 ---
 
 # GigPay Protocol
@@ -41,6 +33,8 @@ The result is a programmable treasury rail that is capital-efficient, auditable,
 # 2. Architectural Layers
 
 GigPay consists of three tightly integrated but logically separated layers.
+
+<img width="5480" height="4481" alt="deepseek_mermaid_20260131_4086f8" src="https://github.com/user-attachments/assets/411b00d7-6e7b-4c88-a502-6475e89668d4" />
 
 ## 2.1 Treasury Layer
 

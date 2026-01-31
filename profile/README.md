@@ -18,7 +18,7 @@ The system works as follows:
 * The treasury funds multiple escrow intents over time.
 * Idle balances are optionally deployed into an ERC4626 yield vault.
 * Each escrow has clear ownership of principal and yield.
-* Settlement is finalized deterministically through escrow state transitions.
+* Settlement is finalized deterministically through escrow state transitions and support off/on ramps with cross border capabilities.
 
 The result is a programmable treasury rail that is capital-efficient, auditable, and modular.
 

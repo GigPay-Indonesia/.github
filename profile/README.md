@@ -1,8 +1,7 @@
-![Solidity](https://img.shields.io/badge/Solidity-0.8.23-blue)
+![Solidity](https://img.shields.io/badge/Solidity-0.8.28-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
-![Wagmi](https://img.shields.io/badge/Wagmi-2.x-yellow)
 ![MIT](https://img.shields.io/badge/License-MIT-purple)
 
 <img width="2000" height="500" alt="Desain tanpa judul" src="https://github.com/user-attachments/assets/803b365f-8227-42fa-a852-8ac5d62b17e9" />
